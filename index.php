@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Test page</title>
-    </head>
-    <body>
-        <p><?php echo 'This is a <strong>test</strong>!'; ?></p>
-    </body>
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>This is First file of VIJAY</p>'; ?> 
+ </body>
 </html>
